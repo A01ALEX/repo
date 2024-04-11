@@ -1,0 +1,8 @@
+*Instalar GIT*
+sudo apt install Git
+*comando en consola*
+--> configurar corrreo
+Git config --global user.email "ale_cc56@hotmail.com"
+--> configurar username
+Git config --global user.name "A01ALEX"
+-->Git init
